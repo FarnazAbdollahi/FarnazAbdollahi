@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @FarnazAbdollahi
-- 👀 I’m interested in games,movies and coding!
-- 🌱 I’m currently learning front-end technologies but I'm eager to expand my skills and learn whatever necessary to become a better developer!
-- 💞️ I’m looking to collaborate on life changing projects!
+As a highly skilled freelance frontend developer with over 5 years of experience, I specialize in creating intuitive, responsive, and visually appealing web interfaces.
+My expertise spans HTML, CSS, JavaScript, and modern frameworks like React and Next.js, ensuring seamless user experiences across all devices.
+I have a proven track record of delivering high-quality projects on time, collaborating effectively with clients and cross-functional teams.
+My strong attention to detail, commitment to staying updated with the latest industry trends, and passion for innovative design solutions make me a valuable asset to any project.
 - 📫 You can reach me via my email: farnaz.abdollahii@gmail.com
 
 - private repos demo:
